@@ -27,7 +27,7 @@ send_email(
     to_email="abidabegam.mohammad@gmail.com"
 )
 send_email(
-    subject="Hello Anwar Mohammad",
+    subject="Test Email from Abida",
     body="This is a test email from my python code",
     to_email="anwar.mohammad.us@gmail.com"
 )
