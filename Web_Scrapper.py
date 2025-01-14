@@ -23,3 +23,4 @@ def scrape_website(url):
 # Test with a sample website
 scrape_website("https://en.wikipedia.org/wiki/Main_Page")
 scrape_website("https://www.fandom.com/")
+scrape_website("https://www.citizendium.org/")
